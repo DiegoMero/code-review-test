@@ -1,0 +1,15 @@
+
+
+nav{
+    position: fixed;
+    top: 0px;
+    left: 0;
+    width: 100%;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .welcome-section {
+      height: 100%;
+    }
+  }
